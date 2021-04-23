@@ -20,11 +20,7 @@ const HomePage = () => {
 				</div>
 				<div className="TextParagraph">
 					<p>
-						Where you can enjoy developing your own pizza while you code.
-						<br /> We promise to hand create each pizza with love and gloves!
-						For you're safety <br /> and ours. Head on over to our{" "}
-						<span>form page</span> to place your order now. We appreciate your
-						business!
+                    PIZZA TIME PIZZA TIME PIZZA TIME PIZZA TIME PIZZA TIME PIZZA TIME PIZZA TIME PIZZA TIME PIZZA TIME PIZZA TIME PIZZA TIME PIZZA TIME 
 					</p>
 				</div>
 				<div className="buttonDiv">
